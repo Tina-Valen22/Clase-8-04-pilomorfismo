@@ -1,2 +1,2 @@
-# Pok-mon
+# Polimorfismo
 Actividad en clase
